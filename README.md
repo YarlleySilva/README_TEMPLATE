@@ -11,7 +11,7 @@ Descrição curta sobre o projeto.
 
 ![](https://user-images.githubusercontent.com/43525243/65678370-8881ce00-e029-11e9-8079-13dcc5e19aa9.jpg)
 
-#Dependências
+# Dependências
 
 Descrever de como instalar e usar as dependências que o  projeto necessita.
 
