@@ -21,7 +21,8 @@ Descrever de como instalar e usar as dependências que o  projeto necessita.
 
 @YarlleySilva -- yarlley.silva@gmail.com
 
-https://github.com/YarlleySilva
+LinkedIn - https://www.linkedin.com/in/yarlleysilva/
+Github - https://github.com/YarlleySilva
 
 [read-badge]: https://img.shields.io/badge/Readme-README.md-green
 [Shields]: https://github.com/badges/shields/blob/master/README.md
