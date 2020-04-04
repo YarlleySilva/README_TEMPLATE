@@ -1,28 +1,58 @@
-# Template Pessoal do README.md
+<!-- Coloque alguma imagem de Logo se tiver -->
 
-Este README irá servir como um template para os projetos pessoal.
-
-![read-badge] ![read-template]
-
-> Os badges acima podem ser criados através do [Shields].
+<!-- <h1 align="center">
+    <img alt="" src="./src/assets/logoDoe.png" width="300px" />
+</h1> -->
 
 
-Descrição curta sobre o projeto.
+## 🚀 Template Pessoal do README 🚀 [Link Exemplo](https://www.linkedin.com/in/yarlleysilva/ "LinkedIN")
 
-![](https://user-images.githubusercontent.com/43525243/65678370-8881ce00-e029-11e9-8079-13dcc5e19aa9.jpg)
+<!-- Coloque uma pequena descrição do projeto aqui -->
 
-# Dependências
+Este README irá servir como um template para os projetos pessoal. 
 
-Descrever de como instalar e usar as dependências que o  projeto necessita.
+### Sobre 📜
 
-`git commit -m "README.md Template`
+Coloque uma descrição do projeto aqui
 
-# Author
+<!-- Exemplo -->
+<!-- A ideia do projeto é:
 
-@YarlleySilva -- yarlley.silva@gmail.com
+<strong>"Incentivar, encontrar e registrar doadores de sangue".</strong>
 
-https://github.com/YarlleySilva
+O projeto consiste na construção de uma aplicação Web para cadastro de doadores de sangue. -->
 
-[read-badge]: https://img.shields.io/badge/Readme-README.md-green
-[Shields]: https://github.com/badges/shields/blob/master/README.md
-[read-template]: https://img.shields.io/badge/Template-Pessoal-red
+### Tela Web/FrontEnd // Mobile. ⌨📺📱
+
+Coloque uma imagem da Tela Web e/ou Mobile aqui.
+
+<!-- <h1 align="center">
+    <img alt="DoeSangue" src="./src/assets/doesangue.PNG" width="300px"/>
+</h1> -->
+
+###  Requerimentos / Dependências 📌
+
+Defina as dependências do seu projeto aqui.<br>
+
+Exemplo:
+
+Se for usar o NPM: <br>
+`npm init`
+
+Se for usar o Yarn: <br>
+`yarn init`
+
+### Tecnologias 💻 
+
+Coloque as tecnologias utilizadas no projeto aqui.
+
+- [Tecnologia](https://www.linkedin.com/in/yarlleysilva/)
+- [Tecnologia](https://www.linkedin.com/in/yarlleysilva/)
+- [Tecnologia](https://www.linkedin.com/in/yarlleysilva/)
+- [Tecnologia](https://www.linkedin.com/in/yarlleysilva/)
+
+### Contato 📫
+
+Contato: - yarlley.silva@gmail.com
+<br>
+LinkedIn - https://www.linkedin.com/in/yarlleysilva/
